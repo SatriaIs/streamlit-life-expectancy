@@ -10,7 +10,7 @@ Original file is located at
 import pickle
 import streamlit as st
 
-model = pickle.load(open('life_expentancy.sav', 'rb'))
+model = pickle.load(open('life_expectancy.sav', 'rb'))
 
 st.title('Estimasi Angka Harapan Hidup')
 
