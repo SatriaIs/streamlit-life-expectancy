@@ -185,4 +185,4 @@ print(f"Precision = {score_of_r2}")
 dan didapat hasilnya adalah 0.7392315286502513 atau bisa dikatakan 73%, jika dilihat hasilnya sama dengan yang menggunakan regresi linier
 ## Deployment
 [Hasil Streamlitnya](https://app-life-expectancy-satriais.streamlit.app/)
-![](<Screenshot 2023-10-27 141226.png>)
+![](Screenshot 2023-10-27 141226)
