@@ -19,9 +19,9 @@ Hepatitis_B = st.number_input('Input persentase orang yang sudah vaksin Hepatiti
 Measles = st.number_input('Input persentase orang yang sudah vaksin Campak')
 Polio = st.number_input('Input persentase orang yang sudah vaksin Polio')
 Diphtheria = st.number_input('Input persentase orang yang sudah vaksin Difteria')
-alcohol_consumption = st.number_input('Input jumlah orang Mengonsumsi Alkohol')
-Incident_HIV = st.number_input('Input jumlah orang mengidap HIV')
-BMI = st.number_input('Input BMI orang tersebut')
+alcohol_consumption = st.number_input('Input persentase orang Mengonsumsi Alkohol')
+Incident_HIV = st.number_input('Input persentase pengidap HIV')
+BMI = st.number_input('Input status gizi orang tersebut')
 
 predict = ''
 
