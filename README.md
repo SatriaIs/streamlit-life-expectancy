@@ -88,7 +88,6 @@ untuk melihat apakah terdapat nilai yang kosong pada dataset, kita dapat memangg
 ```python
 sns.heatmap(df.isnull())
 ```
-Maka Hasilnya
 ![](image.png)
 
 untuk melihat sebaran data pada dataset ini kita dapat memanggilnya dengan cara
